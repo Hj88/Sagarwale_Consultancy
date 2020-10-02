@@ -6,8 +6,8 @@ body{
 }
 h1{
   font-size: 40px;
-  font-style: italic;
-  color: #fff;
+    text-align: center;
+  color: darkgrey;
 }
 .main1
   {
