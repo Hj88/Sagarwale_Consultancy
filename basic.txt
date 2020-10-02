@@ -1,0 +1,6 @@
+Front Dashboard
+Navigation Panel
+Footer with company name
+Slidder containing differnet poster about daily advertisement
+Cardview contaning different category of consaltancy services.
+Drop down menu for profile section.
