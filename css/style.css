@@ -1,0 +1,81 @@
+body{
+  background-image: url(hg.jpg);
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+    background-size: cover;
+}
+h1{
+  font-size: 40px;
+  font-style: italic;
+  color: #fff;
+}
+.main1
+  {
+        border:1px;
+       padding-top:1px;
+        padding-bottom: 0.01em;
+        border-radius: 80px;
+        background-image: url(bg.png);
+        opacity: 0.8;
+    background-size: cover;
+
+  }
+  .box li
+  {
+           font-size: 1.5em;
+    display:inline;
+    margin-right: 55px;
+    font-weight: bold;
+  }
+  .li1,.li2,.li3,.li4
+  {
+    text-decoration: none;
+    color: black;
+  }
+  .li1:hover,.li2:hover,.li3:hover,.li4:hover
+  {
+    color:rgb(120,120,120);
+  }
+.p1
+{
+width: 600px;
+margin-left: 20px;
+font-size: 31px;
+font-weight: bold;
+float: right;
+  clear: both;
+}
+.img1
+{
+margin-top: 30px;
+width: 800px;
+margin-left: 30px;
+border-radius: 20px;
+opacity: 0.7;
+}
+.img1:hover
+{
+opacity: 1;
+}
+.img2
+{
+margin-top:30px;
+width: 800px;
+height: 400px;
+margin-left: 30px;
+border-radius: 20px;
+opacity: 0.7;
+}
+.img2:hover
+{
+opacity: 1;
+}
+.p2
+{
+width: 600px;
+margin-left: 20px;
+font-size: 31px;
+font-weight: bold;
+float: left;
+  clear: both;
+}
